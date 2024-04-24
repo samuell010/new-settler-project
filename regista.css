@@ -1,0 +1,70 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:rgb(6, 66, 6);
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin-left: 1%;
+    margin-bottom: 6%;
+    text-align: center;
+}
+h1{
+    margin-left: 1%;
+    margin-bottom: 6%;
+    text-align: center;
+}
+h3{
+    margin-left: 1%;
+    margin-bottom: 6%;
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px; /* You can add rounded corners to inputs as well */
+    border: 1px solid #ccc;
+   
+}
+
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+
+input[type="submit"] {
+    background-color: #007bff;
+    box-sizing: border-box;
+    color: #fff;
+    padding: 15px 100px; /* Increased padding for larger button */
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-left: 15%
+       
+}
+p{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+
+
